@@ -1,0 +1,73 @@
+body{
+  background: #F4F2F3;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  color:  #939196;
+  font-size: 15px;
+  line-height: 1.9em;
+}
+
+h1, h2, h3{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+body{
+  text-align: center;
+}
+
+h1{
+  color: #78D5D7;
+  font-size: 27px;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: 300;
+}
+
+h3{
+  font-size: 16px;
+  font-weight: 300;
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  color: #545F66;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #78D5D7;
+  text-decoration: none;
+}
+
+table{
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+.profile_pic{
+  width: 250px;
+  border-radius: 50%;
+  box-shadow: 2px 2px 15px rgba(20, 20, 20, 0.3);
+}
+
+.movies_pics{
+  width: 120px;
+  margin-bottom: 30px;
+  padding-right: 20px;
+}
+
+.card{
+  width: 40%;
+  min-width: 400px;
+  background-color: white;
+  padding: 20px;
+  margin: 20px auto;
+}
+
+
